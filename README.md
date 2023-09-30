@@ -1,12 +1,8 @@
-# stopwatch
 
-**Features**
-Start timer
-On click of start button, start the timer
-If timer is 0 start from beginning else start from wherever last stopped
+    👋 Hi, I’m @Madhumita Saha Ghosh
+    👀 I’m interested in software developer roles
+    🌱 I’m currently learning full stack web develovepment from coding ninjas
+    💞️ I’m looking to collaborate as full stack developer in any good IT company
+    💻 I’m also teaching as a full-time assistant professor at Regent Education and Research         Foundation
+    📫 reach me sahaghoshmadhumita@gmail.com
 
-Stop timer
-Stop timer once clicked on the stop button
-
-Reset button
-On click of reset stop the watch (if already started) and set timer as 0
